@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Contexto.md" />
+  </Folder>
+  <Project Path="../SupplierGuard.Application/SupplierGuard.Application.csproj" Id="d9cdea20-8c34-4741-b184-2a713d1d4446" />
+  <Project Path="../SupplierGuard.Domain/SupplierGuard.Domain.csproj" Id="577a2d16-9c6c-48f4-8a13-a4e03aa9d4a7" />
+  <Project Path="../SupplierGuard.Infrastructure/SupplierGuard.Infrastructure.csproj" Id="649da842-2a90-4426-88c5-4e9b6c193857" />
+  <Project Path="SupplierGuard.csproj" />
+</Solution>
